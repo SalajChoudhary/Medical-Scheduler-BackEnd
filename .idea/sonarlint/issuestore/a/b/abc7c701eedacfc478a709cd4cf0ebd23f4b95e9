@@ -1,0 +1,19 @@
+
+A
+java:S1905$"&Remove this unnecessary cast to "int".(äËéªúÿÿÿÿ
+@
+java:S1905("*Remove this unnecessary cast to "Integer".(¶õ¡ô
+N
+java:S1854I"8Remove this useless assignment to local variable "name".(˜©¸
+?
+java:S1481I")Remove this unused "name" local variable.(˜©¸
+U
+java:S1128":Remove this unused import 'com.techelevator.model.Doctor'.(õØ‹–øÿÿÿÿ
+p
+java:S1128"URemove this unused import 'org.springframework.security.access.prepost.PreAuthorize'.(ˆ†×ùÿÿÿÿ
+c
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“
+q
+java:S1128"VRemove this unused import 'org.springframework.security.core.context.SecurityContext'.(ØıŞşÿÿÿÿ
+l
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥

@@ -62,6 +62,7 @@ public class AppointmentController {
     public void updateAppointment(@PathVariable int id, @Valid @RequestBody Appointment appointment){
         appointmentDao.updateAppointment(id, appointment);
     }
+
     @DeleteMapping("/{id}")
     public void deleteAppointment(@PathVariable int id) {
         appointmentDao.deleteAppointment(id);

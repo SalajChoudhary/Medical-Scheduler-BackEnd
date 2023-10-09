@@ -1,0 +1,15 @@
+
+r
+java:S3655E"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(®¸ııÿÿÿÿ8µëì²°1
+l
+java:S4488&"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãèïûÿÿÿÿ8¼ëì²°1
+N
+java:S1854;"8Remove this useless assignment to local variable "user".(Ë³…‘
+g
+java:S44888"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•8Æëì²°1
+?
+java:S1481;")Remove this unused "user" local variable.(Ë³…‘
+K
+java:S1905E")Remove this unnecessary cast to "String".(®¸ııÿÿÿÿ8Ëëì²°1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8Ìëì²°1
